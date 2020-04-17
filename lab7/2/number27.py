@@ -1,0 +1,5 @@
+M, N, x, y = int(input()), int(input()), int(input()), int(input())
+print(x, y - 1)
+print(x, y + 1)
+print(x - 1, y)
+print(x + 1, y)
